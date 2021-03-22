@@ -14,4 +14,4 @@ print("Hello World")
 
 ### .gitignore to ignore files/folders that we do not want to send to git hub
 
--create a file called '''.git ignore'''
+-create a file called ```.git ignore```
