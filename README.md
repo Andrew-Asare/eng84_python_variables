@@ -10,7 +10,7 @@
 print("Hello World")
 ```
 
-- if the outcome is Hello World then 
+- if the outcome is Hello World that means everything working fine 
 
 ### .gitignore to ignore files/folders that we do not want to send to git hub
 
